@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning PHP
+- 🌱 I’m currently learning ReactJS
 
 ---
 
